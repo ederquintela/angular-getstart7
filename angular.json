@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularGetStart7"
+    }
+  },
+  "defaultProject": "AngularGetStart7",
+  "cli": {
+    "analytics": "baa65c91-635f-4a7b-ad19-87d067d9c958"
+  }
 }
