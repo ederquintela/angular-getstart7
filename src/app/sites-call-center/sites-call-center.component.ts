@@ -10,6 +10,7 @@ export class SitesCallCenterComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log("Criado Componente Sites Call Center")
   }
 
 }
