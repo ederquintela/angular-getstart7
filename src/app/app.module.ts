@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { UsuarioComponent } from './usuario/usuario.component';
 import { ClienteComponent } from './cliente/cliente.component';
 import { ContatoComponent } from './contato/contato.component';
+import { SitesCallCenterComponent } from './sites-call-center/sites-call-center.component';
 
 @NgModule({
   declarations: [
     ClienteComponent
     UsuarioComponent,
-    ContatoComponent
+    ContatoComponent,
+    SitesCallCenterComponent
   ],
   imports: [
     BrowserModule,
