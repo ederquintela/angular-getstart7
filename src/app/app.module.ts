@@ -10,7 +10,8 @@ import { SitesCallCenterComponent } from './sites-call-center/sites-call-center.
 
 @NgModule({
   declarations: [
-    ClienteComponent
+    AppComponent,
+    ClienteComponent,
     UsuarioComponent,
     ContatoComponent,
     SitesCallCenterComponent
